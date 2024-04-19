@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713546978 source:c:\users\muhammadadis\desktop\c++\uyga vazifa list\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
